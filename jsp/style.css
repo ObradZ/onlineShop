@@ -1,0 +1,132 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-image:url(images/background1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+h1{
+    margin:0px;
+    padding:10px;
+    color:white;
+    float:right;
+    font-size:25px;
+}
+img{
+    width:100px;
+}
+#wrapper{
+    background:none;
+    overflow:hidden;
+    width:96%;
+    margin:1%;
+    padding:1%;
+}
+#header{
+    background:none;
+    margin:0.5%;
+    overflow: hidden;
+}
+#navigation{
+    background:none;
+    padding:0px;
+    margin:0.5%;
+    overflow:hidden;
+    font-size:18px;
+}
+#categories{
+    margin:0.7%;
+    width:20%;
+    float:left;
+    padding:0px;
+
+}
+#content{
+    width:76%;
+    margin:0.5%;
+    float:left;
+    background:none;
+    padding:0.5%;
+}
+ol{
+    padding:0px;
+    margin:0px;
+}
+li{
+    list-style:none;
+}
+ol li a{
+    display:block;
+    clear:both;
+}
+ul{
+    padding:0px;
+    margin:0px;
+}
+ul li a{
+    display:block;
+    padding:10px;
+    margin:0px;
+
+}
+ul li{
+    float:left;
+    display:block;
+}
+a{
+    text-decoration:none;
+    padding:10px;
+    margin:0px;
+    color:white;
+}
+a:hover{
+    color:black;
+    background:none;
+}
+p{
+    padding:10px;
+    margin:0px;
+}
+#contentP{
+    margin:0.5%;
+    padding:0.5%;
+    width:98%;
+    background:none;
+    text-align:center;
+}
+#welldone{
+    width:100%;
+    display:block;
+}
+span{
+    background:none;
+    width:24%;
+    float:left;
+    padding:0.5%;
+    text-align:center;
+    color:white;
+    opacity:0.5;
+}
+span:hover{
+    opacity:1;
+    color:black;
+}
+hr{
+    clear:both;
+    color:white;
+    margin:0px;
+}
+
+span img{
+    opacity:1;
+}
+.productsH{
+    font-size:20px;
+}
+#buy{
+    width: 250px;
+}
+
+
